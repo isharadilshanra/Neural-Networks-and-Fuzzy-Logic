@@ -1,5 +1,7 @@
 # Neural-Networks-and-Fuzzy-Logic
 
+## Heat map of features 
+
 ![image](https://github.com/user-attachments/assets/ea970f4c-8b86-482e-aa6f-dc223c82c339)
 
 
