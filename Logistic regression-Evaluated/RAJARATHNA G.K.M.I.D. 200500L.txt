@@ -1,0 +1,63 @@
+Student: RAJARATHNA G.K.M.I.D. 200500L
+
+testcase_Q2
+max_score: 8
+student_score: 8
+errors: None
+
+testcase_Q3_2
+max_score: 1
+student_score: 1
+errors: None
+
+testcase_Q3_3
+max_score: 3
+student_score: 3
+errors: None
+
+testcase_Q3_4
+max_score: 3
+student_score: 3
+errors: None
+
+testcase_Q3_5
+max_score: 3
+student_score: 3
+errors: None
+
+testcase_Q3
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q4
+max_score: 5
+student_score: 5
+errors: None
+
+testcase_Q5
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q6
+max_score: 2
+student_score: 2
+errors: None
+
+testcase_Q7
+max_score: 7
+student_score: 7
+errors: None
+
+testcase_Q8
+max_score: 3
+student_score: 3
+errors: None
+
+testcase_Q12
+max_score: 10
+student_score: 6.0
+errors: None
+
+Final score 49.0 out of 53
