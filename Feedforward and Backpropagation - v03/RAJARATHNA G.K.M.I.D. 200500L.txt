@@ -1,0 +1,39 @@
+Student: RAJARATHNA G.K.M.I.D. 200500L
+
+testcase_Q2
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q3
+max_score: 3
+student_score: 3
+errors: None
+
+testcase_Q5
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q7
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q8
+max_score: 4
+student_score: 4
+errors: None
+
+testcase_Q11
+max_score: 10
+student_score: 9.0
+errors: None
+
+testcase_Q12
+max_score: 10
+student_score: 7.0
+errors: None
+
+
+Final score 35.0 out of 39
